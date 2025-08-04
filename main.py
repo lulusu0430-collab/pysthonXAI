@@ -1,3 +1,2 @@
-if __name__ == "__main__":
-    for i in range(1, 16):
-        print(i)
+a = float(input("請輸入圓的半徑:"))  # 使用者輸入圓的半徑
+print("圓的面積為:", 3.14 * a**2)  # 計算圓的面積並顯示
