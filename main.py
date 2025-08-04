@@ -1,3 +1,2 @@
-print(i)
-print("Hello, World!")
-print("This is a test script.")
+for i in range(1, 10):
+    print(i)
