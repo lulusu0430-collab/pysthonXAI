@@ -70,3 +70,18 @@ a = input("請輸入一些文字:")
 print("輸入結束")
 print(int(a) + 10)
 print(type(a))  # 證明透過input()輸入內容都是字串
+
+
+a = float(input("請輸入圓的半徑:"))
+print("圓的面積為:", 3.14 * a**2)
+
+
+a = float(input("請輸入國文其中成績:"))
+b = float(input("請輸入數學其中成績:"))
+print("總分為:", a + b)
+print("平均為:", (a + b) / 2)
+
+
+name = float(input("請輸入你的名字:"))
+age = float(input("請輸入你的年齡:"))
+print("你好,我是", name, "我今年", age, "歲")
