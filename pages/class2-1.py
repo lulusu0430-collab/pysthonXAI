@@ -39,7 +39,7 @@ print(not False)  # true
 password = input("請輸入密碼：")
 if password == "543":
     print("密碼正確，歡迎狗！")
-elif password == "428":
+elif password == "430":
     print("密碼正確，歡迎進入！")
 elif password == "123":
     print("密碼正確，歡迎貓！")
