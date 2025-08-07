@@ -1,18 +1,18 @@
-👋 二、顯示文字
+##👋 二、顯示文字
 python
 Copy
 Edit
 print("Hello, World!")
 ▶ print() 是顯示東西在畫面上（終端機）用的。
 
-🔢 三、基本資料型態（電腦認得的資料類型）
+##🔢 三、基本資料型態（電腦認得的資料類型）
 資料 說明 種類
 1 整數 int
 1.0 小數 float
 "1" 或 'hello' 文字（字串） str
 True / False 是/否、對/錯 bool
 
-📦 四、變數（像是小箱子裝東西）
+##📦 四、變數（像是小箱子裝東西）
 python
 Copy
 Edit
